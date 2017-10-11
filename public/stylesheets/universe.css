@@ -270,7 +270,6 @@ p {
 header {
   position: relative;
   width: 100%;
-  min-height: auto;
   background-repeat: repeat-y;
   background: url("../images/bg-pattern.png"), #7b4397;
   /* fallback for old browsers */
